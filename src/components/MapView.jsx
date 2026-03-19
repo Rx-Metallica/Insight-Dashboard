@@ -54,7 +54,7 @@ const MapView = () => {
   }, [])
 
   return (
-    <div className="absolute bottom-6 left-6 z-50 rounded-xl overflow-hidden shadow-2xl border border-gray-700"
+    <div className="absolute bottom-11 left-35 z-50 rounded-xl overflow-hidden shadow-2xl border border-gray-700"
       style={{ width: '280px', height: '200px' }}
     >
       {/* Header */}

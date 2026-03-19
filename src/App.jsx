@@ -7,6 +7,7 @@ import EmergencyStop from './components/EmergencyStop'
 import WASDController from './components/WASDController'
 import MapView from './components/MapView'
 import CameraView from './components/CamearaView'
+import ZoomSlider from './components/ZoomSlider'
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <EmergencyStop />
         <WASDController />
         <MapView/>
+        <ZoomSlider/>
       </div>
     </div>
 
